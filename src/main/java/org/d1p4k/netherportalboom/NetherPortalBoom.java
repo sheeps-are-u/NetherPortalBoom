@@ -29,7 +29,7 @@ public class NetherPortalBoom implements ModInitializer {
             }
         }
 
-
+// testing
 
 
         Properties prop = new Properties();
